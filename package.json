@@ -1,6 +1,6 @@
 {
   "name": "flashchainjs",
-  "version": "1.4.3",
+  "version": "1.4.4",
   "description": "Pure JavaScript Flashchain library for node.js and browsers.",
   "browser": {
     "ws": false,
@@ -62,7 +62,7 @@
     "event-emitter": "^0.3.4",
     "immutable": "^3.8.1",
     "secure-random": "^1.1.1",
-    "reconnectingwebsocketflcflc": "1.0.1"
+    "reconnectingwebsocketflc": "1.0.1"
   },
   "devDependencies": {
     "assert": "^1.3.0",
