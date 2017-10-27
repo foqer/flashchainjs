@@ -1,6 +1,6 @@
 {
   "name": "flashchainjs",
-  "version": "1.4.0",
+  "version": "1.4.2",
   "description": "Pure JavaScript Flashchain library for node.js and browsers.",
   "browser": {
     "ws": false,
@@ -29,7 +29,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/flashchain/flashchainjs.git"
+    "url": "git+https://github.com/foqer/flashchainjs.git"
   },
   "author": "Sigve Kvalsvik <flashchainblocks@gmail.com> (https://github.com/svk31)",
   "contributors": [
@@ -39,7 +39,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/flashchain/flashchainjs/issues"
+    "url": "https://github.com/foqer/flashchainjs/issues"
   },
   "engines": {
     "node": ">= 6.0.0"
@@ -78,7 +78,7 @@
     "uglify": "^0.1.5",
     "uglifyjs": "^2.4.10"
   },
-  "homepage": "https://github.com/flashchain/flashchainjs#readme",
+  "homepage": "https://github.com/foqer/flashchainjs#readme",
   "directories": {
     "example": "examples",
     "lib": "lib",
